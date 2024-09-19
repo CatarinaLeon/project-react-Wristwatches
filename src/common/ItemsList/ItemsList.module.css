@@ -1,0 +1,9 @@
+.list {
+  display: grid;
+}
+
+.listItem {
+  display: block;
+  width: 185px;
+  height: 125px;
+}

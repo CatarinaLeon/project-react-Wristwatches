@@ -1,0 +1,58 @@
+.heroContainer{
+  display: flex;
+}
+.luxContainer{
+  width: 580px;
+}
+.rightContainer{
+  width: 590px;
+  position: relative;
+  padding: 0 0 0 160px;
+}
+.luxTitle{
+  width: 442px;
+  margin-bottom: 40px;
+
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 70px;
+}
+.luxText{
+  margin-bottom: 50px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+
+}
+.cardTitle {
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 28px;
+  /* text-align: center; */
+  /* margin-bottom: 10px; */
+}
+
+.cardText {
+  font-size: 18px;
+  line-height: 28px;
+  margin-bottom: 30px;
+
+  color: #fff;
+}
+.btnSiderCard{
+  border: none;
+  width: 48px;
+  height: 34px;
+  position: absolute;
+  left: 350px;
+  bottom: 3px;
+}
+.btnSiderCard svg{
+right: 0;
+}
+/* .cardSubText {
+  font-size: 10px;
+  line-height: 1.5;
+
+  color: #000000;
+} */
